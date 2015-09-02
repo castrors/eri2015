@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TODO List</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="salvar">Salvar</string>
+    <string name="title_activity_adicionar_tarefa">Nova Tarefa</string>
+    <string name="menu_adicionar_tarefa">Adicionar Tarefa</string>
+    <string name="menu_salvar">Salvar</string>
+    <string name="lista_vazia">Lista vaiza</string>
+</resources>
